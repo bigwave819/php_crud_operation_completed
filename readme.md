@@ -1,0 +1,1 @@
+you have to remove other bootstrap which is set locally and link to cdn bootstrap
